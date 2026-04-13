@@ -119,4 +119,4 @@ I help startups and businesses build **scalable, production-ready applications**
 
 ## 📬 Let’s Connect  
 
-💬 Open for collaborations, consulting, and exciting projects 🚀  
+I’m always open to exciting projects! Feel free to reach out for collaborations, consultations, or just to chat about web development and full-stack engineering 🚀

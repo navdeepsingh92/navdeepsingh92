@@ -97,18 +97,6 @@ I help startups and businesses build **robust, scalable applications** using mod
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
 ## 💼 Why Choose Me  
 
 ✔ Clean & scalable code  

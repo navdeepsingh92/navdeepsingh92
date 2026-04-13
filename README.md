@@ -64,7 +64,7 @@ I help startups and businesses build **robust, scalable applications** using mod
 
 ### ⚙️ DevOps & Tools  
 <p>
-<img src="https://skillicons.dev/icons?i=aws,digitalocean,vercel,docker,git,github,gitlab,bitbucket,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,gitlab,bitbucket,vscode" />
 </p>
 
 ---
@@ -118,9 +118,3 @@ I help startups and businesses build **robust, scalable applications** using mod
 ## 📞 Let’s Connect  
 
 💬 Let’s build something amazing together 🚀  
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>

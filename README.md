@@ -51,29 +51,61 @@ I focus on building systems that are not just functional, but **scalable, secure
 
 ## 💻 Tech Stack  
 
-### 🚀 Languages & Frameworks  
+## 🚀 Languages & Frameworks  
+
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🎨 Frontend  
+---
+
+## 🎨 Frontend  
+
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
-### 🔧 Backend  
+---
+
+## 🔧 Backend  
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
 </p>
 
-### 🗄️ Databases  
+---
+
+## 🗄️ Databases  
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
-### ⚙️ DevOps & Tools  
+---
+
+## ⚙️ DevOps & Tools  
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,gitlab,bitbucket,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=gitlab" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---

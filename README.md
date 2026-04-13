@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Navdeep</h1>
+<h1 align="center">
+  Hi 👋, I'm Navdeep
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Lead+Full+Stack+Developer;MERN+%7C+Laravel+%7C+PHP+%7C+WordPress;Building+Scalable+SaaS+Applications;Open+to+Work+🚀" />
+</p>
+
+---
 
 ## 💡 About Me  
 
@@ -7,11 +14,11 @@
 
 👉 Let’s connect for a **FREE 40-minute consultation** to plan the right technical approach.  
 
-I’m a **Lead Full Stack Developer** with **8+ years of experience**, specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js), Laravel, PHP, and WordPress**.  
+I’m **Navdeep**, a **Lead Full Stack Developer** with **8+ years of experience**, specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js), Laravel, PHP, and WordPress**.  
 
-I help **startups and growing businesses** build **robust, scalable, and production-ready applications** — from MVPs to full-scale SaaS platforms.  
+I help **startups and businesses** build **robust, scalable, and production-ready applications** — from MVPs to full-scale SaaS platforms.  
 
-💼 I’ve worked with **70+ clients globally**, delivering solutions across industries like:  
+💼 I’ve worked with **70+ clients worldwide**, delivering high-performance solutions across industries like:  
 - 🛒 E-commerce  
 - 💳 FinTech  
 - 🏥 Healthcare  

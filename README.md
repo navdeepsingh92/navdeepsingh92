@@ -89,11 +89,11 @@ I help startups and businesses build **robust, scalable applications** using mod
 
 ## 🏆 Achievements  
 
-- 🚀 Built SaaS platforms generating **$100K+ revenue**  
-- 📱 Mobile apps increased engagement by **40%**  
-- ⚙️ Automated systems reducing manual work by **60%**  
-- 🗺️ Workflow automation improved delivery by **30%**  
-- 🚀 CI/CD pipelines → **50% faster deployments**  
+- Built SaaS platforms generating **$100K+ revenue**  
+- Mobile apps increased engagement by **40%**  
+- Automated systems reducing manual work by **60%**  
+- Workflow automation improved delivery by **30%**  
+- CI/CD pipelines → **50% faster deployments**  
 
 ---
 

@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Navdeep</h1>
-<h3 align="center">🚀 Lead Full Stack Developer | MERN | Laravel | PHP | WordPress</h3>
 
-<p align="center">
-• 💻 Building Scalable SaaS • 🌍 Open to Work
-</p>
-
----
 
 ## 💡 About Me  
 
-🚀 Looking for a developer who can turn your idea into a **scalable, high-performance web app?**  
+🚀 Looking for a developer who can turn your idea into a **scalable, high-performance web application?**  
 
-👉 Let’s connect for a **FREE 40-minute consultation**  
+👉 Let’s connect for a **FREE 40-minute consultation** to plan the right technical approach.  
 
-I help startups and businesses build **robust, scalable applications** using modern technologies like **MERN, Laravel, WordPress, and PHP**.
+I’m a **Lead Full Stack Developer** with **8+ years of experience**, specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js), Laravel, PHP, and WordPress**.  
 
----
+I help **startups and growing businesses** build **robust, scalable, and production-ready applications** — from MVPs to full-scale SaaS platforms.  
+
+💼 I’ve worked with **70+ clients globally**, delivering solutions across industries like:  
+- 🛒 E-commerce  
+- 💳 FinTech  
+- 🏥 Healthcare  
+- 🏠 Real Estate  
+
+I focus on building systems that are not just functional, but **scalable, secure, and optimized for long-term growth**. From **architecture to deployment**, I ensure every product is built with performance and maintainability in mind.  
 
 ## 🧠 What I Do  
 
